@@ -1,0 +1,39 @@
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.exe
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.deps.json
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.runtimeconfig.json
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.runtimeconfig.dev.json
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.dll
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.pdb
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.csprojAssemblyReference.cache
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.csproj.CoreCompileInputs.cache
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.AssemblyInfoInputs.cache
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.AssemblyInfo.cs
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.dll
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.pdb
+D:\Interview offer\Knight Tour\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.genruntimeconfig.cache
+D:\PGDip in Computing\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.exe
+D:\PGDip in Computing\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.deps.json
+D:\PGDip in Computing\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.runtimeconfig.json
+D:\PGDip in Computing\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.runtimeconfig.dev.json
+D:\PGDip in Computing\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.dll
+D:\PGDip in Computing\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.pdb
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.csprojAssemblyReference.cache
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.csproj.CoreCompileInputs.cache
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.AssemblyInfoInputs.cache
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.AssemblyInfo.cs
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.dll
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.pdb
+D:\PGDip in Computing\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.genruntimeconfig.cache
+D:\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.exe
+D:\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.deps.json
+D:\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.runtimeconfig.json
+D:\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.runtimeconfig.dev.json
+D:\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.dll
+D:\Knight Tour\Knight Tour\bin\Debug\netcoreapp3.1\Knight Tour.pdb
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.csprojAssemblyReference.cache
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.csproj.CoreCompileInputs.cache
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.AssemblyInfoInputs.cache
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.AssemblyInfo.cs
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.dll
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.pdb
+D:\Knight Tour\Knight Tour\obj\Debug\netcoreapp3.1\Knight Tour.genruntimeconfig.cache
